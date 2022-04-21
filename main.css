@@ -1,0 +1,33 @@
+.new-test {
+    color: red;
+}
+
+.changed-id {
+
+    background: blue;
+    background: blue;
+    background: blue;
+        background: blue;
+}
+
+.changed-id1 {
+
+    background: blue;
+    background: blue;
+    background: blue;
+    background: blue;
+}
+
+.changed-id2 {
+
+    background: blue;
+    background: blue;
+    background: blue;
+    background: blue;
+}
+
+.container{
+    margin: 0 auto;
+    width: 900px;
+    background: #ccc ;
+}
